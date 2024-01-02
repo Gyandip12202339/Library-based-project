@@ -1,0 +1,10 @@
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\bin\Debug\Library project.exe.config
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\bin\Debug\Library project.exe
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\bin\Debug\Library project.pdb
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library project.csproj.AssemblyReference.cache
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library_project.Form1.resources
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library_project.Properties.Resources.resources
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library project.csproj.GenerateResource.cache
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library project.csproj.CoreCompileInputs.cache
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library project.exe
+C:\Users\karki\OneDrive\Desktop\WEB project\Library project\obj\Debug\Library project.pdb
